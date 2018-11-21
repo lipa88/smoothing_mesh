@@ -1,17 +1,7 @@
 # smoothing_mesh
 
-Requirements:  python2.7
+Склонировать репозиторий git clone https://github.com/nmwsharp/DDGSpring2016.git и положить файл smoothing.ipynb туда.
+Создать виртуалэнв с Python 2.7 и установить библиотеки:
+pip install numpy scipy matplotlib euclid plyfile pyopengl 
 
-pip install numpy 
 
-pip install scipy 
-
-pip install matplotlib
-
-pip install euclid
-
-pip install plyfile 
-
-pip install pyopengl 
-
-git clone https://github.com/nmwsharp/DDGSpring2016.git
